@@ -1,0 +1,6 @@
+*.ps1
+*.md
+سجل_التعديلات.md
+generate_sections.ps1
+test_render.html
+simple_test.html
